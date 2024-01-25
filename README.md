@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bünyamin Tunç</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuncbunyamin&label=Profile%20views&color=0e75b6&style=flat" alt="tuncbunyamin" /> </p>
+
 
 
 <div> <a href="https://github.com/tuncbunyamin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
